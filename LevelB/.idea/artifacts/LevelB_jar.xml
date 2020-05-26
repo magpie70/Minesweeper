@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LevelB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LevelB_jar</output-path>
+    <root id="archive" name="LevelB.jar">
+      <element id="module-output" name="LevelB" />
+    </root>
+  </artifact>
+</component>
